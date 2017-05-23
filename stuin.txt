@@ -1,0 +1,6 @@
+1001 stuname1 89
+1002 stuname2 78
+1003 stuname3 60
+1100 stuname120 88
+1100 stuname130 87
+1102 stuname104 87
